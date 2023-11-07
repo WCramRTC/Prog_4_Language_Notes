@@ -5,3 +5,7 @@ public static void main(string[] args) {
 	Console.WriteLine(
 }
 ```
+
+```html
+<b>This is some BOLD text</b>
+```
